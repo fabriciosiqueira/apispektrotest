@@ -16,7 +16,7 @@ var produtoController = require('./controllers/produtoController.js');
  //url da interface em angular, somente esse link terá acesso a API de Registro
  app.use(cors());
 
- app.listen(process.env.PORT || process.env.LOCAL_PORT, () => console.log("Server iniciado com sucesso"));
+ app.listen(3000, () => console.log("Server iniciado com sucesso"));
 
 //routes
 app.use('/produtos', produtoController);
