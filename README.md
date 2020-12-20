@@ -1,2 +1,2 @@
-# apispektrotest
-API de registro de  produtos, NodeJS, EpxressJs e MongoDB Atlas
+# spektroteste
+Aplicaçao Web de registro de produtos usando fundamentos de MEAN CRUD
